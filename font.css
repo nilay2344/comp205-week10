@@ -1,0 +1,38 @@
+div{
+    height: 300px;
+}
+
+
+div.div1 {
+    background-color: grey;
+
+
+}
+div.div2{
+    background-image:url("balloons-celebration-decor-1551350.jpg");
+    background-position: center;
+    background-size: cover;
+}
+div.absolute {
+     position: absolute;
+     background-image:url("cold-environment-fog-1553961.jpg");
+     background-position: center;
+     background-size: cover;
+     left:0px;
+     top: 600px;
+     width: 100%;
+
+     
+     
+
+}
+ div.relative{
+    position: absolute;
+    background-color: red;
+    opacity: 0.3;
+    left:0px;
+    top: 600px;
+    width: 100%;
+    
+
+ }
